@@ -1,0 +1,9 @@
+[package]
+name = "display_macro"
+description = "println! but always flushing"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+homepage = "https://github.com/dgellow/display-macro-rs"
+
+[dependencies]
