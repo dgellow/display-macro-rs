@@ -1,4 +1,4 @@
-# display_macro
+# display_macro ![crates.io badge](https://img.shields.io/crates/v/display_macro)
 
 ```rust
 use display_macro::{display, err_display};
